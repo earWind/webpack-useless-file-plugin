@@ -1,5 +1,7 @@
 # webpack-useless-file-plugin
 
+自动找出项目中没有用的文件
+
 ```js
  plugins: [
     new UselessFilePlugin({
